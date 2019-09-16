@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nash/proprietary/lib/libwfdrtsp.so:system/lib/libwfdrtsp.so \
     vendor/motorola/nash/proprietary/lib/libwfdservice.so:system/lib/libwfdservice.so \
     vendor/motorola/nash/proprietary/lib/libwfdsm.so:system/lib/libwfdsm.so \
+    vendor/motorola/nash/proprietary/lib/libwfdtalsa.so:system/lib/libwfdtalsa.so \
     vendor/motorola/nash/proprietary/lib/libwfduibcinterface.so:system/lib/libwfduibcinterface.so \
     vendor/motorola/nash/proprietary/lib/libwfduibcsink.so:system/lib/libwfduibcsink.so \
     vendor/motorola/nash/proprietary/lib/libwfduibcsinkinterface.so:system/lib/libwfduibcsinkinterface.so \
@@ -481,7 +482,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nash/proprietary/vendor/lib/libgcs.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs.so \
     vendor/motorola/nash/proprietary/vendor/lib/libgralloc1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloc1.so \
     vendor/motorola/nash/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
-    vendor/motorola/nash/proprietary/vendor/lib/libgui_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgui_vendor.so \
     vendor/motorola/nash/proprietary/vendor/lib/libhdr_tm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_tm.so \
     vendor/motorola/nash/proprietary/vendor/lib/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidl.so \
     vendor/motorola/nash/proprietary/vendor/lib/libiio.so:$(TARGET_COPY_OUT_VENDOR)/lib/libiio.so \
